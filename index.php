@@ -111,11 +111,8 @@
                                         <td> Robinson R44</td>
                                         <td>PT-ZEN</td>
                                         <td> <span class="badge bg-warning">Alugado</span></td>
-                                        <td>
-                                        
                                                 </form>
                                             </div>
-</td>
                                     </tr>
 
                                     <tr>

@@ -124,7 +124,6 @@
                                         <td>Uno</td>
                                         <td>ABC1D23</td>
                                         <td> <span class="badge bg-warning">Alugado</span></td>
-                                        <td>
                                             <div class="action-wrapper">
                                                 <form method="post" class="btn-group-actions">
                                                     <!-- Botão deletar (sempre disponivel pro adm)-->
