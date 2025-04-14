@@ -21,7 +21,8 @@ Imagens de como ficou a seguir divido em três tópicos:
 
 ## Página usuário:
 
-![Captura de tela 2025-04-14 112720](https://github.com/user-attachments/assets/eebf59ae-4cfd-4225-bcca-539ef8d544e6)
+![Captura de tela 2025-04-14 113521](https://github.com/user-attachments/assets/93c24a50-d183-4cd8-8706-6560f3db3f2f)
+
 
 ![Captura de tela 2025-04-14 112729](https://github.com/user-attachments/assets/a131c291-ceea-465d-970d-6e2e65c7fa7d)
 
