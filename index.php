@@ -135,6 +135,11 @@
                                             </div></td>
                                         <td>TWC1H98</td>
                                         <td> <span class="badge bg-success">Disponivel</span></td>
+      
+    </div>
+  </div>
+</div>
+
                                                 </form>
                                             </div>
 </td>

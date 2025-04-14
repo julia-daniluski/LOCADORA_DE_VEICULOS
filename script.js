@@ -11,7 +11,9 @@ function toggleDetalhes(buttonId, quadroId) {
     button.addEventListener('click', function(event) {
       event.preventDefault();
       var id = this.id.split('-')[1];
-      toggleDetalhes(`btnDetalhes-${id}`, `quadroDetalhes-${id}`);
+      toggleDetalhes(`btnDetalhes-${id}`, `quadroDetalhes-${id}`); 
     });
   });
+  
+
   
