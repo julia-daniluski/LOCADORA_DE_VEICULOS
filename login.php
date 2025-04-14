@@ -52,7 +52,7 @@
                         <label for="password" class="form-label">
                             Senha:
                         </label>
-                        <input type="password" name="password" class="form-control" id="password" required>
+                        <input type="password" name="password" class="form-control" id="password" required placeholder="Digite a senha">
                         <span class="password-toggle mt-3" onclick="togglePassword()">
                             <i class="bi bi-eye"></i>
                         </span>
