@@ -127,7 +127,9 @@
                                         <td> <span class="badge bg-success">Disponivel</span></td>
                                         <td>
                                             <div class="action-wrapper">
-                                                
+                                                <form action="post" class="btn-group-actions">
+                                            <!-- Botão deletar (sempre disponivel pro adm)-->
+                                                </form>
                                             </div>
                                         </td>
 
