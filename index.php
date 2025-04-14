@@ -33,9 +33,11 @@
                 </div>
             </div>
         </div>
-            <div class="col-md-6">
-                <div class="card h-100">
-                    <div class="card-header">
+        <div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card h-100">
+                <div class="card-header">
                         <h4 class="mb-0">
                             Calcular a previsão de aluguel
                         </h4>
@@ -60,6 +62,8 @@
                 </div>
             </div>
         </div>
+        </div>
+    </div>
 
         <!-- Tabela de veiculos cadastrados-->
         <div class="row mt-4">
