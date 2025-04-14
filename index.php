@@ -33,43 +33,6 @@
                 </div>
             </div>
         </div>
-
-        <!-- Formulário para adicionar novos veiculos -->
-        <div class="row same-height-row">
-            <div class="col-md-6">
-                <div class="card h-100">
-                    <div class="card-header">
-                        <h4>Adicionar novo veículo</h4>
-                    </div>
-                    <div class="card-body">
-                        <form action="post" class="needs-validation" novalidate>
-                            <div class="mb-3">
-                                <label for="modelo" class="form-label">Modelo:</label>
-                                <input type="text" class="form-control" name="modelo" required>
-                                <div class="invalid-feedback">
-                                    Informe um modelo válido"
-                                </div>
-                            </div>
-                            <div class="mb-3">
-                                <label for="placa" class="form-label">Placa:</label>
-                                <input type="text" class="form-control" name="placa" required>
-                                <div class="invalid-feedback">
-                                    Informe uma placa válida
-                                </div>
-                            </div>
-                            <div class="mb-3">
-                                <label for="tipo" class="form-label">Tipo:</label>
-                                <select name="tipo" class="form-select" id="tipo" required>
-                                    <option value="">Carro</option>
-                                    <option value="">Moto</option>
-                                    <option value="">Helicoptero</option>
-                                </select>
-                            </div>
-                            <button class="btn btn-primary w-100" type="submit" name="adicionar">Adicionar veículo</button>
-                        </form>
-                    </div>
-                </div>
-            </div>
             <div class="col-md-6">
                 <div class="card h-100">
                     <div class="card-header">
