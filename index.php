@@ -24,7 +24,7 @@
                         </span>
                         <!-- Bem vindo,(usuario) -->
                         <span class="welcome-text">
-                            Bem-vindo, <strong>Administrador</strong>
+                            Bem-vindo, <strong>Usuário</strong>
                         </span>
                         <!-- botão de logout -->
                         <a href="" class="btn btn-outline-danger d-flex align-items-center gap-1"><i class="bi bi-box-arrow-in-right"></i>Sair</a>
