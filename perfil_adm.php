@@ -129,6 +129,7 @@
                                             <div class="action-wrapper">
                                                 <form action="post" class="btn-group-actions">
                                             <!-- Botão deletar (sempre disponivel pro adm)-->
+                                             <button class="btn btn-danger btn-sm" type="submit" name="deletar">Deletar</button>
                                                 </form>
                                             </div>
                                         </td>
