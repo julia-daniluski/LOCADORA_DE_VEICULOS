@@ -54,7 +54,7 @@
                                 <label for="placa" class="form-label">Placa:</label>
                                 <input type="text" class="form-control" name="placa" required>
                                 <div class="invalid-feedback">
-                                    Informe uma placa válida"
+                                    Informe uma placa válida
                                 </div>
                             </div>
                             <div class="mb-3">
@@ -63,9 +63,6 @@
                                     <option value="">Carro</option>
                                     <option value="">Moto</option>
                                     <option value="">Helicoptero</option>
-                                    <option value="">Avião</option>
-                                    <option value="">Barco</option>
-                                    <option value="">Submarino</option>
                                 </select>
                             </div>
                             <button class="btn btn-success w-100" type="submit" name="adicionar">Adicionar veículo</button>
