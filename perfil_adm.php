@@ -64,8 +64,8 @@
                                     <option value="">Moto</option>
                                     <option value="">Helicoptero</option>
                                     <option value="">Avião</option>
-                                    <option value="">barco</option>
-                                    <option value="">submarino</option>
+                                    <option value="">Barco</option>
+                                    <option value="">Submarino</option>
                                 </select>
                             </div>
                             <button class="btn btn-success w-100" type="submit" name="adicionar">Adicionar veículo</button>
