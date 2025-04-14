@@ -87,7 +87,13 @@
 
                                     <tr>
                                         <td>Carro</td>
-                                        <td>Uno</td>
+                                        <td>
+                                            <a class="btn" id="btnDetalhes-1"><strong>Uno</strong></a>
+                                            <div id="quadroDetalhes-1" class="escondido">
+                                                <p>O Fiat Uno é um carro supermini fabricado pela Fiat que foi produzido no Brasil de 1984 a 2021. O modelo é conhecido por ser econômico, versátil e robusto. Cor prata, está 14.000 km rodados. É o carro perfeito para você?</p>
+                                            </div>
+                                        </td>
+                                        
                                         <td>ABC1D23</td>
                                         <td> <span class="badge bg-warning">Alugado</span></td>
                                                 </form>
@@ -97,7 +103,10 @@
 
                                     <tr>
                                         <td>Moto</td>
-                                        <td>Biz 125</td>
+                                        <td><a class="btn" id="btnDetalhes-2"><strong>Biz 125i EX</strong></a>
+                                            <div id="quadroDetalhes-2" class="escondido">
+                                                <p>A Honda Biz 125i EX é a escolha ideal para quem busca praticidade, economia e design moderno em uma só moto. Combinando facilidade de pilotagem, economia de combustível e alta durabilidade, essa motocicleta é perfeita tanto para deslocamentos diários na cidade quanto para trajetos mais longos. Cor preta, 18.000km rodados.</p>
+                                            </div></td>
                                         <td>GAY 8B12</td>
                                         <td> <span class="badge bg-success">Disponivel</span></td>
 
@@ -108,7 +117,10 @@
 
                                     <tr>
                                         <td>Helicoptero</td>
-                                        <td> Robinson R44</td>
+                                        <td><a class="btn" id="btnDetalhes-3"><strong>Robinson R44</strong></a>
+                                            <div id="quadroDetalhes-3" class="escondido">
+                                                <p>O Robinson R44 é um helicóptero leve de quatro lugares produzido pela Robinson Helicopter Company desde 1992. Na cor preta, é perfeito para aqueles que querem viajar em segurança.</p>
+                                            </div></td>
                                         <td>PT-ZEN</td>
                                         <td> <span class="badge bg-warning">Alugado</span></td>
                                                 </form>
@@ -117,7 +129,10 @@
 
                                     <tr>
                                         <td>Carro</td>
-                                        <td> Fiesta</td>
+                                        <td><a class="btn" id="btnDetalhes-4"><strong>Fiesta 2012</strong></a>
+                                            <div id="quadroDetalhes-4" class="escondido">
+                                                <p>O Ford Fiesta é um hatch compacto que marcou presença significativa no mercado brasileiro por mais de duas décadas, conquistando uma sólida base de consumidores graças à sua combinação de estilo, tecnologia e dirigibilidade. Na cor preta, é uma opção em conta para aqueles que querem viajar com um carro manual. 10.000km rodados.</p>
+                                            </div></td>
                                         <td>TWC1H98</td>
                                         <td> <span class="badge bg-success">Disponivel</span></td>
                                                 </form>
@@ -134,6 +149,7 @@
         </div>
 
     </div>
-    
+          <!-- Scripts -->
+  <script src="script.js"></script>
 </body>
 </html>

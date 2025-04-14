@@ -27,6 +27,24 @@
     text-align: center;
 }
 
+#quadroDetalhes-1,
+#quadroDetalhes-2,
+#quadroDetalhes-3,
+#quadroDetalhes-4,
+#quadroDetalhes-5,
+#quadroDetalhes-6 {
+    display: none; /* O quadro começa escondido */
+  }
+  
+  /* Classe que será adicionada para mostrar o quadro */
+  #quadroDetalhes.mostrar {
+    display: block;
+  }
+  
+  .escondido {
+    display: none;
+  }
+  
 
 
 @media (max-width: 768px){
@@ -50,5 +68,9 @@
     .days-input{
         width: 100% !important;
     }
+
+    .escondido {
+        display: none;
+      }
 }
 
