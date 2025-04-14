@@ -35,7 +35,7 @@
         </div>
         <div class="container">
     <div class="row justify-content-center">
-        <div class="col-md-6">
+        <div class="col-md-12">
             <div class="card h-100">
                 <div class="card-header">
                         <h4 class="mb-0">
