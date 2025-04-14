@@ -74,7 +74,7 @@
                 <div class="card h-100">
                     <div class="card-header">
                         <h4 class="mb-0">
-                            Calculadora a previsão de aluguel
+                            Calcular a previsão de aluguel
                         </h4>
                     </div>
                     <div class="card-body">
@@ -84,6 +84,7 @@
                                 <select class="form-select" name="" id="" required>
                                     <option value="carro">Carro</option>
                                     <option value="moto">Moto</option>
+                                    <option value="helicoptero">Helicoptero</option>
                                 </select>
                             </div>
                             <div class="mb-3">
