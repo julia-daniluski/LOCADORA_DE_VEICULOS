@@ -65,7 +65,7 @@
                                     <option value="">Helicoptero</option>
                                 </select>
                             </div>
-                            <button class="btn btn-success w-100" type="submit" name="adicionar">Adicionar veículo</button>
+                            <button class="btn btn-primary w-100" type="submit" name="adicionar">Adicionar veículo</button>
                         </form>
                     </div>
                 </div>
@@ -91,7 +91,7 @@
                                 <label for="quantidade" class="form-label">Quantidade de dias</label>
                                 <input type="number" name="quantidade" class="form-control" required>
                             </div>
-                            <button type="submit" class="btn btn-success w-100" name="calcular">Calcular</button>
+                            <button type="submit" class="btn btn-primary w-100" name="calcular">Calcular</button>
                         </form>
                     </div>
                 </div>
@@ -129,7 +129,7 @@
                                             <div class="action-wrapper">
                                                 <form action="post" class="btn-group-actions">
                                             <!-- Botão deletar (sempre disponivel pro adm)-->
-                                             <button class="btn btn-danger btn-sm" type="submit" name="deletar">Deletar</button>
+                                             <button class="btn btn-danger btn-sm delete-btn" type="submit" name="deletar">Deletar</button>
                                                 </form>
                                             </div>
                                         </td>
