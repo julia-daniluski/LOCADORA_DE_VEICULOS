@@ -91,7 +91,7 @@
                                 <label for="quantidade" class="form-label">Quantidade de dias</label>
                                 <input type="number" name="quantidade" class="form-control" required>
                             </div>
-                            <button type="button" class="btn btn-success w-100">Calcular</button>
+                            <button type="submit" class="btn btn-success w-100" name="calcular">Calcular</button>
                         </form>
                     </div>
                 </div>
